@@ -4,7 +4,7 @@
 
 **Passive OSINT reconnaissance of a domain's external attack surface — with a risk-scored HTML report.**
 
-[![CI](https://github.com/marsilid/reconlens/actions/workflows/ci.yml/badge.svg)](https://github.com/marsilid/reconlens/actions/workflows/ci.yml)
+[![CI](https://github.com/nexself18/reconlens/actions/workflows/ci.yml/badge.svg)](https://github.com/nexself18/reconlens/actions/workflows/ci.yml)
 ![Python](https://img.shields.io/badge/python-3.10%E2%80%933.14-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Code style](https://img.shields.io/badge/code%20style-ruff-orange)
@@ -84,7 +84,7 @@ environment and installs everything, then shows a menu; the report opens in your
 Manual setup:
 
 ```bash
-git clone https://github.com/marsilid/reconlens.git
+git clone https://github.com/nexself18/reconlens.git
 cd reconlens
 python -m venv .venv
 # Windows: .venv\Scripts\activate    Linux/macOS: source .venv/bin/activate

@@ -69,7 +69,7 @@ OID-алгоритмов в сертификате — это про требо�
 Через терминал:
 
 ```bash
-git clone https://github.com/marsilid/reconlens.git
+git clone https://github.com/nexself18/reconlens.git
 cd reconlens
 python -m venv .venv
 # Windows: .venv\Scripts\activate    Linux/macOS: source .venv/bin/activate
